@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\bin\Debug\UsuarioContraseña.exe.config
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\bin\Debug\UsuarioContraseña.exe
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\bin\Debug\UsuarioContraseña.pdb
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\obj\Debug\UsuarioContraseña.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\obj\Debug\UsuarioContraseña.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\obj\Debug\UsuarioContraseña.exe
+C:\Users\USUARIO\source\repos\UsuarioContraseña\UsuarioContraseña\obj\Debug\UsuarioContraseña.pdb
